@@ -1,9 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Lena Africa",
+  "description": "Lena Help Center — Your go-to resource for quick tutorials, guides, and tips to navigate our platform smoothly and get the most out of your learning experience with our applications."
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#33FF9C",
     "light": "#07C983",
     "dark": "#15803D"
   },
