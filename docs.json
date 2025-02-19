@@ -12,10 +12,10 @@
     "navigation": {
         "tabs": [
             {
-                "tab": "Guides",
+                "tab": "General",
                 "groups": [
                     {
-                        "group": "Get Started",
+                        "group": "General",
                         "pages": [
                             "introduction",
                             "quickstart",
@@ -25,31 +25,54 @@
                     {
                         "group": "Essentials",
                         "pages": [
-                            "essentials/markdown",
-                            "essentials/code",
-                            "essentials/images",
-                            "essentials/settings",
-                            "essentials/navigation",
-                            "essentials/reusable-snippets"
+                            "general/markdown",
+                            "general/code",
+                            "general/images",
+                            "general/settings",
+                            "general/navigation",
+                            "general/reusable-snippets"
                         ]
                     }
                 ]
             },
             {
-                "tab": "API Reference",
+                "tab": "Students",
                 "groups": [
                     {
-                        "group": "API Documentation",
+                        "group": "Introduction",
                         "pages": [
-                            "api-reference/introduction"
+                            "students/introduction",
+                            "students/code"
+                        ]
+                    },
+                    {
+                        "group": "Courses",
+                        "pages": [
+                            "students/markdown",
+                            "students/code",
+                            "students/images",
+                            "students/settings",
+                            "students/navigation",
+                            "students/reusable-snippets"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "Teachers",
+                "groups": [
+                    {
+                        "group": "Teachers",
+                        "pages": [
+                            "teachers/introduction"
                         ]
                     },
                     {
                         "group": "Endpoint Examples",
                         "pages": [
-                            "api-reference/endpoint/get",
-                            "api-reference/endpoint/create",
-                            "api-reference/endpoint/delete"
+                            "teachers/endpoint/get",
+                            "teachers/endpoint/create",
+                            "teachers/endpoint/delete"
                         ]
                     }
                 ]
