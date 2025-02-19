@@ -5,9 +5,9 @@
     "prettier": "^3.5.1"
   },
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky install"
   },
   "lint-staged": {
-    "*.md": "prettier --write"
+    "*.mdx": "prettier --write"
   }
 }
